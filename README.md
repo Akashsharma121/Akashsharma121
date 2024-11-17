@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Akashsharma121/Akashsharma121/blob/main/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Akash Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
