@@ -133,16 +133,24 @@ A short, punchy description focused on outcome, not just tech used.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashsharma121&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsharma121&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akashsharma121&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsharma121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsharma121&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsharma121&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="70%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashsharma121&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashsharma121&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph" width="90%"/>
 
 </div>
 
@@ -162,7 +170,7 @@ A short, punchy description focused on outcome, not just tech used.
 
 I'm always open to discussing new projects, full-stack opportunities, or just talking tech.
 
-<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/">
+<a href="https://www.linkedin.com/in/akash-sharma-b280253b4/">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
