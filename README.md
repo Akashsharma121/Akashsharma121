@@ -6,13 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+code.+Clean+UI.+Real+impact.;Currently+exploring+System+Design+%26+Cloud." alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/></a>
 <img src="https://komarev.com/ghpvc/?username=akashsharma121&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<br/><br/>
 
 <a href="#-about-me">About</a> •
 <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
