@@ -29,7 +29,7 @@
 </picture>
 
 ## 🧑‍💻 About Me
-
+<div align="center">
 <table>
 <tr>
 <td width="100%" valign="top">
@@ -53,11 +53,13 @@ const akashSharma = {
 
 </td>
 </table>
+<div/>
 
 <br/>
 
 ## 📈 Currently Leveling Up
 
+<div align="center">
 <table width="100%">
 <tr><td>
 
@@ -75,6 +77,7 @@ const akashSharma = {
 
 </td></tr>
 </table>
+<div/>
 
 <br/>
 
