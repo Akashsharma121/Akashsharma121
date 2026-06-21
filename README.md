@@ -28,8 +28,9 @@
   <img alt="divider" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 </picture>
 
-<div align="center">
 ## 🧑‍💻 About Me
+
+<div align="center">
 <table>
 <tr>
 <td width="100%" valign="top">
@@ -49,7 +50,7 @@ const akashSharma = {
 - 🌱 Deepening my knowledge of **system design**, **API security**, and **scalable architecture**
 - 🎯 Goal: contribute to high-impact engineering teams that value clean, maintainable code
 - ⚡ Fun fact: I genuinely enjoy refactoring more than writing new features
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/akash-sharma-b280253b4/)** — always open to interesting conversations
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/akash-sharma-605a5b3b5/)** — always open to interesting conversations
 
 </td>
 </table>
