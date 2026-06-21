@@ -31,10 +31,10 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  
-<table width="100%" >
+
+<table width="90%">
 <tr>
-<td>
+<td align="center">
 
 ```javascript
 const akashSharma = {
@@ -47,6 +47,11 @@ const akashSharma = {
 };
 ```
 
+</td>
+</tr>
+<tr>
+<td align="left">
+
 - 🔭 Building production-grade full-stack applications with the **MERN stack**
 - 🌱 Deepening my knowledge of **system design**, **API security**, and **scalable architecture**
 - 🎯 Goal: contribute to high-impact engineering teams that value clean, maintainable code
@@ -54,8 +59,10 @@ const akashSharma = {
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/akash-sharma-605a5b3b5/)** — always open to interesting conversations
 
 </td>
+</tr>
 </table>
-<div/>
+
+</div>
 
 <br/>
 
@@ -64,7 +71,7 @@ const akashSharma = {
 <div align="center">
   
 <table width="100%">
-<tr><td>
+<tr><td align="center">
 
 **System Design & Architecture**
 ![Progress](https://progress-bar.xyz/65/?title=Progress&width=300&color=58A6FF&suffix=%25)
@@ -80,7 +87,8 @@ const akashSharma = {
 
 </td></tr>
 </table>
-<div/>
+
+</div>
 
 <br/>
 
