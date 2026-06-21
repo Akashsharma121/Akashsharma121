@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/akash-sharma-b280253b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/></a>
 <img src="https://komarev.com/ghpvc/?username=akashsharma121&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -34,7 +34,7 @@
 
 <table width="90%">
 <tr>
-<td align="center">
+<td>
 
 ```javascript
 const akashSharma = {
