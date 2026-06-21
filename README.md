@@ -162,7 +162,7 @@ A short, punchy description focused on outcome, not just tech used.
 
 I'm always open to discussing new projects, full-stack opportunities, or just talking tech.
 
-<a href="https://www.linkedin.com/in/akash-sharma-b280253b4/">
+<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
