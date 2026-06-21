@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Akash%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/akash-sharma-b280253b4/">
+<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+code.+Clean+UI.+Real+impact.;Currently+exploring+System+Design+%26+Cloud." alt="Typing SVG" />
 </a>
 
@@ -28,8 +28,8 @@
   <img alt="divider" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 </picture>
 
-## 🧑‍💻 About Me
 <div align="center">
+## 🧑‍💻 About Me
 <table>
 <tr>
 <td width="100%" valign="top">
@@ -221,24 +221,6 @@ A short, outcome-focused description — what changed for the user because this 
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akashsharma121&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/akashsharma121/akashsharma121/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/>
-<br/>
-<sub>💡 This animates automatically once you add the snake-generation GitHub Action to this repo (instructions below).</sub>
-</div>
-
-<br/>
-
 <picture>
   <img alt="divider" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 </picture>
@@ -249,7 +231,7 @@ A short, outcome-focused description — what changed for the user because this 
 
 I'm always open to discussing new projects, full-stack opportunities, or just talking tech.
 
-<a href="https://www.linkedin.com/in/akash-sharma-b280253b4/">
+<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
