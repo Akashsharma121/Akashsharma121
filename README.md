@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
 ```javascript
 const akashSharma = {
@@ -52,12 +52,6 @@ const akashSharma = {
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/akash-sharma-b280253b4/)** — always open to interesting conversations
 
 </td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashsharma121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&hide=stars,prs,issues" alt="GitHub Profile Summary" width="100%"/>
-
-</td>
-</tr>
 </table>
 
 <br/>
