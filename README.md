@@ -31,9 +31,10 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-<table>
+  
+<table width="100%" >
 <tr>
-<td width="100%" valign="top">
+<td>
 
 ```javascript
 const akashSharma = {
@@ -61,6 +62,7 @@ const akashSharma = {
 ## 📈 Currently Leveling Up
 
 <div align="center">
+  
 <table width="100%">
 <tr><td>
 
