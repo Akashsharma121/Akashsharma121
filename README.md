@@ -71,7 +71,7 @@ const akashSharma = {
 <div align="center">
   
 <table width="100%">
-<tr><td align="center">
+<tr><td>
 
 **System Design & Architecture**
 ![Progress](https://progress-bar.xyz/65/?title=Progress&width=300&color=58A6FF&suffix=%25)
