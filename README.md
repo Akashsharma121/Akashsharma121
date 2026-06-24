@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Akash%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Akash%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+code.+Clean+UI.+Real+impact.;Currently+exploring+System+Design+%26+Cloud." alt="Typing SVG" />
@@ -34,7 +34,7 @@
 <td>
 
 ```javascript
-const akashSharma = {
+const akashKumar = {
   role: "Full-Stack Developer (MERN)",
   location: "India 🇮🇳",
   focus: ["Scalable APIs", "Clean Architecture", "Pixel-Perfect UI"],
