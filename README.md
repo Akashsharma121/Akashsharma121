@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Akash%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/">
+<a href="https://www.linkedin.com/in/akash-kumar-605a5b3b5/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+code.+Clean+UI.+Real+impact.;Currently+exploring+System+Design+%26+Cloud." alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/akash-kumar-605a5b3b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/></a>
 <img src="https://komarev.com/ghpvc/?username=akashsharma121&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -53,7 +53,7 @@ const akashKumar = {
 - 🌱 Deepening my knowledge of **system design**, **API security**, and **scalable architecture**
 - 🎯 Goal: contribute to high-impact engineering teams that value clean, maintainable code
 - ⚡ Fun fact: I genuinely enjoy refactoring more than writing new features
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/akash-sharma-605a5b3b5/)** — always open to interesting conversations
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/akash-kumar-605a5b3b5/)** — always open to interesting conversations
 
 </td>
 </tr>
@@ -239,7 +239,7 @@ A short, outcome-focused description — what changed for the user because this 
 
 I'm always open to discussing new projects, full-stack opportunities, or just talking tech.
 
-<a href="https://www.linkedin.com/in/akash-sharma-605a5b3b5/">
+<a href="https://www.linkedin.com/in/akash-kumar-605a5b3b5/">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
