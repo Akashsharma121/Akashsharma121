@@ -208,14 +208,14 @@ A short, outcome-focused description — what changed for the user because this 
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<!-- <td width="50%" valign="top" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akashsharma121&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=commits" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%" valign="top" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsharma121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="100%"/>
 </td>
 </tr>
-</table>
+</table> -->
 
 <br/>
 
