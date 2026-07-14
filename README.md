@@ -156,9 +156,9 @@ const akashKumar = {
 ### 🔹 [Chat-App](#)
 Created a scalable real-time chat application using MongoDB, Express.js, React, Node.js, and Socket.io with JWT authentication, instant messaging, online/offline status, and responsive design.
 
-`React` `Node.js` `MongoDB` `JWT Auth`
+`React` `Node.js` `MongoDB` `JWT Auth` `Express.js` `Socket.io` `JWT` `Axios` `CSS`
 
-[🔗 Live Demo](https://chat-app-frontend-omega-sandy.vercel.app/chat) · [📂 Source Code](https://github.com/Akashsharma121?tab=repositories)
+[🔗 Live Demo](https://chat-app-frontend-omega-sandy.vercel.app) · [📂 Source Code](https://github.com/Akashsharma121?tab=repositories)
 
 </td>
 <td width="50%">
