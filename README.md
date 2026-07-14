@@ -105,7 +105,7 @@ const akashKumar = {
 </td>
 </tr>
 <tr>
-<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Frontend</b></td> 
 <td>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
