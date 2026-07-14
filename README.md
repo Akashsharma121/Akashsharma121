@@ -153,12 +153,12 @@ const akashKumar = {
 <tr>
 <td width="50%">
 
-### 🔹 [Project Name 1](#)
-A full-stack MERN application solving a real-world problem — describe the core feature and measurable impact here.
+### 🔹 [Chat-App](#)
+Created a scalable real-time chat application using MongoDB, Express.js, React, Node.js, and Socket.io with JWT authentication, instant messaging, online/offline status, and responsive design.
 
 `React` `Node.js` `MongoDB` `JWT Auth`
 
-[🔗 Live Demo](#) · [📂 Source Code](#)
+[🔗 Live Demo](https://chat-app-frontend-omega-sandy.vercel.app/chat) · [📂 Source Code](https://github.com/Akashsharma121?tab=repositories)
 
 </td>
 <td width="50%">
@@ -195,8 +195,6 @@ A short, outcome-focused description — what changed for the user because this 
 </td>
 </tr>
 </table>
-
-<sub>💡 Replace these with your real repo names, links, and one-liners — recruiters scan this section first. Add a screenshot/GIF per project if you can; visuals convert far better than text alone.</sub>
 
 </div>
 
