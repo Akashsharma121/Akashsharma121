@@ -163,10 +163,10 @@ Created a scalable real-time chat application using MongoDB, Express.js, React, 
 </td>
 <td width="50%">
 
-### 🔹 [Project Name 2](#)
-Brief, punchy pitch on what it does and why it matters — add metrics if you have them (users, performance, scale).
+### 🔹 [MINI-GIT](#)
+A lightweight Git clone built with JavaScript (Node.js), featuring staging, commits, branching, merging, conflict resolution, and commit graph visualization.
 
-`Express` `REST API` `Redux` `Tailwind`
+`Java-Script`
 
 [🔗 Live Demo](#) · [📂 Source Code](#)
 
