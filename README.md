@@ -168,7 +168,7 @@ A lightweight Git clone built with JavaScript (Node.js), featuring staging, comm
 
 `Java-Script`
 
-[🔗 Live Demo](#) · [📂 Source Code](#)
+[🔗 Live Demo](https://github.com/Akashsharma121/MINI-GIT/blob/main/README.md) · [📂 Source Code](https://github.com/Akashsharma121/MINI-GIT)
 
 </td>
 </tr>
