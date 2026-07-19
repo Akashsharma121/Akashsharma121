@@ -164,7 +164,7 @@ Created a scalable real-time chat application using MongoDB, Express.js, React, 
 <td width="50%">
 
 ### 🔹 [MINI-GIT](#)
-A lightweight Git clone built with JavaScript (Node.js), featuring staging, commits, branching, merging, conflict resolution, and commit graph visualization.
+MiniGit is a lightweight Git clone built using JavaScript (Node.js) that implements core version control features such as repository initialization, file staging, commits, branching, merging, conflict resolution, and commit history visualization through a custom CLI.
 
 `Java-Script`
 
