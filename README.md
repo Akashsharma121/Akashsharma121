@@ -175,20 +175,20 @@ MiniGit is a lightweight Git clone built using JavaScript (Node.js) that impleme
 <tr>
 <td width="50%">
 
-### 🔹 [Project Name 3](#)
-What problem does this solve? What makes your implementation noteworthy or technically interesting?
+### 🔹 [E-Commerce](#)
+Developed a scalable MERN E-Commerce platform with role-based authentication, product search & filtering, shopping cart, wishlist, secure checkout, order tracking, and a complete admin panel for managing products, categories, customers, and orders.
 
-`MongoDB` `Socket.io` `Node.js`
+`MongoDB` `Node.js` `Express.js` `React.js` `JWT` `ImageKit` `Tailwind CSS`
 
 [🔗 Live Demo](#) · [📂 Source Code](#)
 
 </td>
 <td width="50%">
 
-### 🔹 [Project Name 4](#)
-A short, outcome-focused description — what changed for the user because this exists?
+### 🔹 [Food Ordering Platform](#)
+Tazza is a full-stack MERN food ordering platform that enables users to browse menus, manage their cart, place orders, and securely complete checkout, with an admin dashboard for managing products, categories, and customer orders.
 
-`React` `Context API` `CSS3`
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `Tailwind CSS` `Razorpay`
 
 [🔗 Live Demo](#) · [📂 Source Code](#)
 
